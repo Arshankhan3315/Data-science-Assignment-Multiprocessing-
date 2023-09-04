@@ -1,0 +1,33 @@
+INFO:root:Child process is running.
+INFO:root:Child process working, step 1
+INFO:root:Child process working, step 2
+INFO:root:Child process working, step 3
+INFO:root:Child process completed its work.
+INFO:root:Main process is done.
+INFO:root:Processing data: 1
+INFO:root:Processing data: 2
+INFO:root:Processed data: 2
+INFO:root:Processed data: 4
+INFO:root:Processing data: 4
+INFO:root:Processing data: 3
+INFO:root:Processed data: 8
+INFO:root:Processed data: 6
+INFO:root:Processing data: 5
+INFO:root:Processed data: 10
+INFO:root:All processes completed.
+INFO:root:Processing data: 1
+INFO:root:Processed data: 2
+INFO:root:Processing data: 2
+INFO:root:Processed data: 4
+INFO:root:Processing data: 3
+INFO:root:Processed data: 6
+INFO:root:Processing data: 4
+INFO:root:Processed data: 8
+INFO:root:Processing data: 5
+INFO:root:Processed data: 10
+INFO:root:All processes completed.
+INFO:root:Process 1 prints the number 1
+INFO:root:Process 2 prints the number 2
+INFO:root:Process 3 prints the number 3
+INFO:root:Process 4 prints the number 4
+INFO:root:All processes have completed.
